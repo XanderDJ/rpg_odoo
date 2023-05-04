@@ -1,2 +1,6 @@
 # dnd_odoo
-Customising odoo community to be able to host dnd sessions and have users see and customise their pcs
+This repository implements different DND systems into odoo. It allows for running campaigns, creating monsters, creating
+lore and maps for your players while making this stuff accessible when required.
+
+## Documentation
+[Documentation](Documentation/main.md)

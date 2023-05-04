@@ -6,7 +6,7 @@ DND will be split up into different modules to allow for more easily adapting an
 The base layer should only contain basic elements like items, characters, races, enemies and locations. 
 
 ## Modules overview
-- dnd_base
+- [dnd_base](Apps/dnd_base/dnd_base.md)
 - dnd_5e
 - starwars_5e
 - ...
