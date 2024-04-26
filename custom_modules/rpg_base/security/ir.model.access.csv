@@ -1,0 +1,13 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_rpg_campaign_manager,rpg_campaign_manager,rpg_base.model_rpg_campaign,rpg_base.group_rpg_gm,1,1,1,1
+access_rpg_campaign_player,rpg_campaign_player,rpg_base.model_rpg_campaign,rpg_base.group_rpg_player,1,0,0,0
+access_rpg_character_manager,rpg_character_manager,rpg_base.model_rpg_character,rpg_base.group_rpg_gm,1,1,1,1
+access_rpg_character_player,rpg_character_player,rpg_base.model_rpg_character,rpg_base.group_rpg_player,1,0,0,0
+access_rpg_creature_manager,rpg_creature_manager,rpg_base.model_rpg_creature,rpg_base.group_rpg_gm,1,1,1,1
+access_rpg_creature_player,rpg_creature_player,rpg_base.model_rpg_creature,rpg_base.group_rpg_player,1,0,0,0
+access_rpg_item_manager,rpg_item_manager,rpg_base.model_rpg_item,rpg_base.group_rpg_gm,1,1,1,1
+access_rpg_item_player,rpg_item_player,rpg_base.model_rpg_item,rpg_base.group_rpg_player,1,0,0,0
+access_rpg_location_manager,rpg_location_manager,rpg_base.model_rpg_location,rpg_base.group_rpg_gm,1,1,1,1
+access_rpg_location_player,rpg_location_player,rpg_base.model_rpg_location,rpg_base.group_rpg_player,1,0,0,0
+access_rpg_quest_manager,rpg_quest_manager,rpg_base.model_rpg_quest,rpg_base.group_rpg_gm,1,1,1,1
+access_rpg_quest_player,rpg_quest_player,rpg_base.model_rpg_quest,rpg_base.group_rpg_player,1,0,0,0
